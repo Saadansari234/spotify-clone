@@ -1,6 +1,6 @@
 import { StyleSheet, Text, View } from 'react-native'
 import React from 'react'
-
+// cloned
 const Homescreen = () => {
   return (
     <View>
